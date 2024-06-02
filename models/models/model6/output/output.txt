@@ -1,0 +1,80 @@
+Train Loss: 0.1308
+Validation Loss: 0.2148
+Accuracy: 92.88
+Dice score: 0.0000
+Precision: 1.0000
+Recall: 0.0000
+F1 Score: 0.0000
+
+Train Loss: 0.1403
+Validation Loss: 0.1968
+Accuracy: 92.88
+Dice score: 0.0000
+Precision: 0.6693
+Recall: 0.0000
+F1 Score: 0.0000
+
+Train Loss: 0.1316
+Validation Loss: 0.1955
+Accuracy: 92.88
+Dice score: 0.0000
+Precision: 1.0000
+Recall: 0.0000
+F1 Score: 0.0000
+
+Train Loss: 0.1862
+Validation Loss: 0.1829
+Accuracy: 92.89
+Dice score: 0.0037
+Precision: 0.6728
+Recall: 0.0019
+F1 Score: 0.0037
+
+Train Loss: 0.1557
+Validation Loss: 0.1753
+Accuracy: 93.04
+Dice score: 0.2341
+Precision: 0.5167
+Recall: 0.1529
+F1 Score: 0.2341
+
+Train Loss: 0.1509
+Validation Loss: 0.2148
+Accuracy: 92.88
+Dice score: 0.0000
+Precision: 0.9232
+Recall: 0.0000
+F1 Score: 0.0000
+
+Train Loss: 0.1812
+Validation Loss: 0.1748
+Accuracy: 93.11
+Dice score: 0.0935
+Precision: 0.7070
+Recall: 0.0508
+F1 Score: 0.0935
+
+Train Loss: 0.1801
+Validation Loss: 0.1928
+Accuracy: 93.04
+Dice score: 0.0694
+Precision: 0.7000
+Recall: 0.0370
+F1 Score: 0.0694
+
+Train Loss: 0.1495
+Validation Loss: 0.1908
+Accuracy: 92.97
+Dice score: 0.0322
+Precision: 0.7660
+Recall: 0.0166
+F1 Score: 0.0322
+
+Train Loss: 0.1252
+Validation Loss: 0.2032
+Accuracy: 92.99
+Dice score: 0.0415
+Precision: 0.7535
+Recall: 0.0216
+F1 Score: 0.0415
+

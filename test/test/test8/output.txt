@@ -1,0 +1,6 @@
+Test Loss: 0.0577
+Accuracy: 98.00
+Dice score: 0.8273
+Precision: 0.8729
+Recall: 0.7865
+F1 Score: 0.8273
